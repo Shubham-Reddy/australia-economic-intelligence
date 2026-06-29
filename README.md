@@ -1,5 +1,4 @@
-# 🇦🇺 Australia Economic Intelligence Platform
-
+# ![Australia](https://flagcdn.com/w40/au.png) Australia Economic Intelligence Platform
 AI powered national economic dashboard providing real time insights across rental markets, job trends, cost of living, property analysis and economic advisory across Australia.
 
 ## 🔴 Live Demo
