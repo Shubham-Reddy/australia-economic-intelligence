@@ -206,7 +206,7 @@ with st.spinner("Fetching live economic data..."):
     indicators = get_live_economic_indicators()
 
 # Header
-st.title("🇦🇺 Australia Economic Intelligence Platform")
+st.markdown("# ![](https://flagcdn.com/w40/au.png) Australia Economic Intelligence Platform")
 st.caption("AI Powered National Economic Dashboard — Real time insights across rental markets, job trends, cost of living, property analysis and AI economic advisory.")
 
 st.divider()
