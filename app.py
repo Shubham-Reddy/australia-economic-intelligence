@@ -242,12 +242,12 @@ st.sidebar.divider()
 
 # Data sources
 st.sidebar.subheader("📊 Data Sources")
-st.sidebar.caption("🏛️ ABS — Australian Bureau of Statistics")
-st.sidebar.caption("🏠 CoreLogic — Rental & Property Data")
-st.sidebar.caption("🔍 Domain.com.au — Property Listings")
-st.sidebar.caption("💼 Seek & LinkedIn — Job Market Data")
-st.sidebar.caption("💰 Numbeo — Cost of Living Index")
-st.sidebar.caption("🏦 RBA — Interest Rate Data")
+st.sidebar.caption("🏛️ ABS - Australian Bureau of Statistics")
+st.sidebar.caption("🏠 CoreLogic - Rental & Property Data")
+st.sidebar.caption("🔍 Domain.com.au - Property Listings")
+st.sidebar.caption("💼 Seek & LinkedIn - Job Market Data")
+st.sidebar.caption("💰 Numbeo - Cost of Living Index")
+st.sidebar.caption("🏦 RBA - Interest Rate Data")
 st.sidebar.caption("📅 Updated: " + get_last_updated())
 
 st.sidebar.divider()
