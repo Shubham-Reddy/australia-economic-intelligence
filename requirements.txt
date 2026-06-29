@@ -7,8 +7,8 @@ folium
 streamlit-folium
 requests
 beautifulsoup4
+lxml
 python-dotenv
 groq
 openpyxl
-lxml
 pyarrow
