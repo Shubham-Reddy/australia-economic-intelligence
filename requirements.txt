@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+folium
+streamlit-folium
+requests
+beautifulsoup4
+python-dotenv
+groq
+openpyxl
+lxml
+pyarrow
